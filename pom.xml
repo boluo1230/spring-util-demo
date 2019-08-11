@@ -29,9 +29,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/simpligility/ossrh-demo.git</connection>
-        <developerConnection>scm:git:ssh://github.com:simpligility/ossrh-demo.git</developerConnection>
-        <url>http://github.com/simpligility/ossrh-demo/tree/master</url>
+        <connection>scm:git:git://github.com:boluo1230/spring-util-demo.git</connection>
+        <developerConnection>scm:git:ssh://github.com:boluo1230/spring-util-demo.git</developerConnection>
+        <url>http://github.com:boluo1230/spring-util-demo/master</url>
     </scm>
 
     <build>
